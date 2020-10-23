@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 s.name        = "cga"
-s.version     = "1.0.2"
+s.version     = "1.0.3"
 s.date        = "2020-10-23"
 s.summary     = "A gem to change your github account"
 s.description = "A gem to change your github account"
